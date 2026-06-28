@@ -39,3 +39,13 @@ Designed and developed by Katalin Studio
 Front‑end Web Developer & Web Designer
 www.katalinstudio.co.uk
 
+## Screenshots
+
+### Homepage
+![Homepage](home-services.png)
+
+### Gallery
+![Gallery](gallery-feedback.png)
+
+### AboutUs
+![About Us](about-us.png)
