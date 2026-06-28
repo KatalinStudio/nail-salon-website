@@ -41,12 +41,13 @@ www.katalinstudio.co.uk
 
 ## Screenshots
 
-### About Us
-![About Us](screenshots/about-us.png)
+### Home & Services
+![Home & Services](screenshots/home-services.png)
 
 ### Gallery & Client Feedback
 ![Gallery & Feedback](screenshots/gallery-feedback.png)
 
-### Home & Services
-![Home & Services](screenshots/home-services.png)
+### About Us
+![About Us](screenshots/about-us.png)
+
 
